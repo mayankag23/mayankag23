@@ -2,7 +2,7 @@
 ## A passionate software, AI, ML, and Consult enthusiast from Gangapur City, Rajasthan, India
 
 # 💫 About Me:
-🌱 I’m currently learning DSA, Data Analytics, and Product Management <br>🎓I’m currently a pre-final year student in the Civil Engineering Department at the Indian Institute of Technology Kanpur<br>📧 Reach out to me at mayankagrl2006@gmail.com or mayankag23@iitk.ac.in<br>
+🌱 I’m currently learning DSA, Machine Learning, Data Analytics, and Product Management <br>🎓I’m currently a pre-final year student in the Civil Engineering Department at the Indian Institute of Technology Kanpur<br>📧 Reach out to me at mayankagrl2006@gmail.com or mayankag23@iitk.ac.in<br>
 
 
 ## 🌐 Socials:
